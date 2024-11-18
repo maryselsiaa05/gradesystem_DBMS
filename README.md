@@ -43,10 +43,3 @@ This project implements a **Dynamic Access Control System** with a **Grading Sys
 3. **Dynamic Grading**: User access permissions adapt based on real-time grading.  
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-When you copy and paste this into your `README.md`, the formatting will display correctly on GitHub.
